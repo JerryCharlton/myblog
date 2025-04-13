@@ -1,10 +1,9 @@
-main {
-    font-family: Arial, sans-serif;
-    margin: 10% 2% ;
-	color: aqua;
-    padding: 0% 0%;
-    line-height: 1.6;
+.listings {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: cornflowerblue
 }
+
 header, footer {
     background: #1170B4;
     color: #fff;
