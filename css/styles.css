@@ -1,18 +1,18 @@
 body {
-	background: #1170B4;
+	background: #ffffff;
 }
 
 .listings {
 	padding: 2rem;
 	margin-left: 30px;
 	margin-right: 30px;
-	background: #1170B4;
+	
 }
 
 header, footer {
     background: #1170B4;
     color: #fff;
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
 }
 nav a {
